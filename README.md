@@ -9,3 +9,19 @@ The interaction between SNPs plays a key role in revealing the genetic mechanism
 
 # Keywords:
 High-Order SNP Interactions, Harmony Search Algorithm, Hierarchical Clustering
+
+
+code list:
+(A modified version of HCMHS)
+  ============
+     |-- cengci.m  :   the code for hierarchical clustering
+    
+     |-- dataexample.txt : a sample file of the dataset
+   
+     |-- Gtest_score.m : the code for g-test test
+   
+     |-- HS_2021_multiTask_UnifiedCoding2021.m : the score for multitask search
+   
+     |-- multi_criteriaEvaluationFuns2021.m: the score for multiple fitness function 
+   
+     |-- test.m  : the score for program startup code
